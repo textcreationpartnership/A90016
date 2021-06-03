@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>New propositions from the King, to His Excellency the Lord Generall Fairfax; and His Majesties declaration touching the Army, upon the removing His Royall Person to VVindsor. With his proposals and desires to his Excellency, and Lieut-Generall Crumwell. concerning Major Gen. Brown. Dated at Windsor, on Munday the 18. of Decemb. 1648. Likewise, the resolution of the Lord Gen. Fairfax, and Lieu. Gen Crumwel, touching the person of the King; and the names of those who are to be shot to death.</title>
+            <author>England and Wales, 1625-1649 : Charles I, Sovereign.</author>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90016</idno><idno type="EEBO-CITATION">99864881</idno>
+  <idno type="VID">162519</idno>
+  <idno type="EEBO-PROQUEST">2248534686</idno>
+  
+            <idno type="STC">Wing N728</idno>
+            <idno type="STC">Thomason E477_2</idno>
+            <idno type="STC">ESTC R205527</idno>
+            <idno type="PROQUEST">99864881</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864881e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90016)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162519)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 76:E477[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>New propositions from the King, to His Excellency the Lord Generall Fairfax; and His Majesties declaration touching the Army, upon the removing His Royall Person to VVindsor. With his proposals and desires to his Excellency, and Lieut-Generall Crumwell. concerning Major Gen. Brown. Dated at Windsor, on Munday the 18. of Decemb. 1648. Likewise, the resolution of the Lord Gen. Fairfax, and Lieu. Gen Crumwel, touching the person of the King; and the names of those who are to be shot to death.</title>
+                  <author>England and Wales, 1625-1649 : Charles I, Sovereign.</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Fielding,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Dec: 19".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Fairfax, Thomas Fairfax, --  Baron, 1612-1671 --  Early works to 1800.</term>
+               <term type="corporate_name">England and Wales. --  Army --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162519:1"/>
+            <p>NEW PROPOSITIONS FROM THE KING, TO His Excellency the Lord Generall <hi>Fairfax;</hi> And His Ma<g ref="char:EOLhyphen"/>jesties Declaration touching the Army, upon the remo<g ref="char:EOLhyphen"/>ving His Royall Person to <hi>VVindsor.</hi> With His Propo<g ref="char:EOLhyphen"/>sals and Desires to his Excellency, and Lieut. Generall <hi>Crumwell,</hi> concerning Major Gen. <hi>Brown.</hi>
+            </p>
+            <p>
+               <hi>Dated at</hi> Windsor, <hi>on Munday the</hi> 18. <hi>of Decemb.</hi> 1648.</p>
+            <p>Likewise, the resolution of the Lord Gen. <hi>Fairfax,</hi> and Lieu. Gen <hi>Crumwel,</hi> touching the person of the King; and the names of those who are to be shot to death.</p>
+            <figure>
+               <figDesc>arms of Charles I</figDesc>
+               <p>C R</p>
+               <q>HONI SOIT QVI MAL Y PENS</q>
+               <q>DIEV ET MON DROIT</q>
+            </figure>
+            <p>LONDON, Printed for W. FIELDING, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:162519:2"/>
+            <pb n="1" facs="tcp:162519:2"/>
+            <head>NEW PROPOSITIONS FROM THE KING To his Excellency the Lord Generall <hi>Fairfax;</hi> And his Ma<g ref="char:EOLhyphen"/>jesties Declaration to his Subjects of <hi>England,</hi> con<g ref="char:EOLhyphen"/>cerning his remove to <hi>Windsor</hi> Castle. <hi>Dated from</hi> Windsor <hi>Decemb.</hi> 18. 1648.</head>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="text">
+                        <opener>
+                           <salute>Right Honorable,</salute>
+                        </opener>
+                        <p>HIs Majesty being advertized, That it was the plea<g ref="char:EOLhyphen"/>sure of his Excellency, and the Councell of the Army, to remove his person from <hi>Hurst</hi> Castle, to <hi>Windsor</hi> (our place of present residence) His Majesty de<g ref="char:EOLhyphen"/>clared a great willingnesse thereto, saying; <hi>That He doubted not, but (by divine providence) that He should be speedily con<g ref="char:EOLhyphen"/>ducted, and transmitted to his Palace at Westminster, and was
+<pb n="2" facs="tcp:162519:3"/> assured, that the new tempering, forging, and transaction of the present affairs in State and Common-wealth, was but as a Gad of tryall, to sound the Hearts and Consciences of his people, and that He could not be perswaded, that the Generall and the su<g ref="char:EOLhyphen"/>pream power of the Army would ever swerve or derogate from their former principles and Ingagement.</hi>
+                        </p>
+                        <p>After his Majesty had thus emphatically declared himself to the Governour, he betook himself to private meditation, where he drew up these ensuing Proposals, and presented them to the Governour of <hi>Hurst</hi> Castle, to bee communica<g ref="char:EOLhyphen"/>ted to his Excellency the Lord Gen. <hi>Fairfax, viz.</hi>
+                        </p>
+                        <p n="1">1 That He might have two Chaplains of his owt to be ad<g ref="char:EOLhyphen"/>mitted to be with him, to pray and preach during his abode under restraint. 2 That He might have liberty to write a Letter to his Royall Consort in <hi>France,</hi> to advertize Her of his present estate and condition. 3 That He might not be re<g ref="char:EOLhyphen"/>strained and kept from Pen, Ink, and Paper, but that he might have the accommodation and use thereof, for easing of his oppressed mind and grieved heart to his Son the Prince of <hi>Wales:</hi> to all which, no doubt but there will be a free assent and concurrence thereto.</p>
+                        <closer>
+                           <dateline>
+                              <hi>VVindsor</hi>
+                              <date>18. <hi>Decemb.</hi> 1648.</date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="text">
+                        <head>The proposals of Major Gen. <hi>Brown</hi> to the Officers of the ARMY.</head>
+                        <p>TO be your prisoner, is by much the lesse displeasing to me, for that my Accusation is for nothing else but Loyalty to the King and Parliament, and the indeavours which I have un<g ref="char:EOLhyphen"/>dertaken to prevent the subversion of his Majesty, and his po<g ref="char:EOLhyphen"/>sterity, Parliament, City, and Kingdom, the final losse of Com<g ref="char:EOLhyphen"/>mon right and freedom of all the subjects of <hi>England,</hi> the utter extirpation of all Law, Government and Religion, and the pre<g ref="char:EOLhyphen"/>posterous converting of our well regulated Monarchy into that monstrous conception, a Military, Anarchy, with a popular par<g ref="char:EOLhyphen"/>liament
+<pb n="4" facs="tcp:162519:3"/> of the meanest of the Commons, and such also of them only, as shal be constantli at the beck of the Army.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="text">
+                        <head>His Excellencies Declaration.</head>
+                        <p>WHereas, in the adventuring of our lives and bloud, we have sought nothing more then the prosperity of this Kingdom, and the establishing o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Justice and Righte<g ref="char:EOLhyphen"/>ousnesse in the Land; so there is nothing that wee more ab<g ref="char:EOLhyphen"/>hor then those wicked calumnies, that we should invade the propriety of any not wilfully making themselves, or do any thing any way, to hinder or obstruct that Trade and Com<g ref="char:EOLhyphen"/>merce by which this Kingdom doth most subsist and flou<g ref="char:EOLhyphen"/>rish: But that we shal, in a most special manner, protect, de<g ref="char:EOLhyphen"/>fend, encourage and maintain, in all just ways, all manner of Trade and Commerce, either by English or Strangers: and that we shall neither do, nor suffer to be done, as far as is in our power, any violence or injury, to the persons or goods of any, either by Sea or Land.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="text">
+                        <head>The Desires of the Souldiery to their General.</head>
+                        <p>Whereas it hath pleased the Lord of Hosts to write his name upon your Sword in very legible characters, as ap<g ref="char:EOLhyphen"/>pears upon record twice, <hi>viz.</hi> in the year —45, where wee had 114 Victories, and now this last Summer above 30, even to our astonishment, who were used by you in that service, that those proud Billows in <hi>Wales, England,</hi> &amp; <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> have bin bounded and calmed, in lesse then six months, yet behold, we have our sorrows repeated, and our fears in<g ref="char:EOLhyphen"/>creased, making our wounds even to bleed afresh.</p>
+                        <p>Wherefore, we desire, in the name of our selves, and the abused and betrayed people of <hi>England,</hi> that your Excellen<g ref="char:EOLhyphen"/>cy will be pleased to assist us, in these ensuing requests and groans of our soules, which may not long be denyed us lest we faint or struggle as we can for the life of good men, and a good Cause.</p>
+                        <p n="1">
+                           <pb n="2" facs="tcp:162519:4"/>1. That justice may suddenly and equally be dispensed, ac<g ref="char:EOLhyphen"/>cording to the desires of our honoured friends in <hi>London, Liecestershire,</hi> and others manifested by their severall Petiti<g ref="char:EOLhyphen"/>ons, and the Parliaments Declaration concerning the Kings evill asserted, or bewayled, and repented of.</p>
+                        <p n="2">2 That your Army be instantly reckoned withall, &amp; paid and so dealt with for future (it they must be used) that eve<g ref="char:EOLhyphen"/>ry Reg. may know their own country, &amp; there receive their pay immediatly, without any other Treasurers or wayes of trouble, that so the people themselves may see what they have for their money. In this we are impatient, or so passio<g ref="char:EOLhyphen"/>nately affected, that we gasp for help: this Regiment hath had but one moneths pay since <hi>May,</hi> having marched 1300 miles this Summer.</p>
+                        <p n="3">3 That the people may know in print, with all speed, which way all publike monies are disposed of in all counties and places, and that of all kinds, which may be done, if every col<g ref="char:EOLunhyphen"/>lector and receiver of mony be forthwith enjoyned to print their receipts and disbursments; for if the souldiers be not paid, the people ask whats become of the Revenue, Compo<g ref="char:EOLhyphen"/>sitions, Sequestrations, Excise, Lands, &amp;c.</p>
+                        <p n="4">4 That we may have just and righteous Government set<g ref="char:EOLhyphen"/>led in this Nation, advancing Godliness, we abhorring Anar<g ref="char:EOLhyphen"/>chy, Confusion, and levelling mens estates; so often charged upon us: for which end, we desire these two things, in pursu<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>nce of which (by help from Heaven) we are resolved to venture all.</p>
+                        <p>First, that the grand and capital enemies, may without de<g ref="char:EOLhyphen"/>lay, be brought to Justice, which is the maine root of our misery, we finding all other wayes attempted, altogether in<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>lid to carry on this work of common safety.</p>
+                        <p>Secondly, for the dispatch of Justice upon all Delinquents
+<pb n="3" facs="tcp:162519:4"/> for rectifying all crooked things among us, &amp; for the good of us, and the Generations to come, we humbly conceive our last and surest way will be for your Excellency and this ar<g ref="char:EOLhyphen"/>my, to make a speedy offer to the Commons house in your name and the Armies, and in the behalf of all <hi>England,</hi> that such of them as have been faithfull to the Kingdomes inte<g ref="char:EOLhyphen"/>rest, to declare with you and the Nation; and that the con<g ref="char:EOLhyphen"/>trary minded, false, royal, and neutral party may know, that our enemies must not be our rulers, we professing, that good men, rather then good laws must save us, though we disjoyn them not. And if any shal object, we put violence upon au<g ref="char:EOLhyphen"/>thority, we hereby proclaim to the world, that neither your Excellency, nor our selves, have received Cōmissions from the parl as now constituted, but from that good party in it, who strugled through many hazards to model this army for the kingdoms safety; nor are we to attend forms &amp; customs in this extremity; we can as willingly s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>t down as march, suf<g ref="char:EOLhyphen"/>fer, as act, would but the godly party in the Kingdom cal us thereunto, and think themselves preserved by it.</p>
+                        <p>But the people call to us for these things, and we to your Excellency, your known worth inviting us hereunto: in pro<g ref="char:EOLhyphen"/>secution of which, as an unparallel'd instrument, we shall live or die with your Excellency, having solemnly promi<g ref="char:EOLhyphen"/>sed, to attempt and attend these two last expedients through all hazard. We cannot so undervalue our God, and the rich experienre we have had in the behalf of this Nation, as to see them lie (like <hi>Issachar</hi>) under these sinful burdens, our <hi>colds nakednesse, want hunger, hardship, difficulties, dangers,</hi> out of which our blessed, and ever to be praised God hath brought us, suggesting these things unto us, for that flock of slaugh<g ref="char:EOLhyphen"/>ter in this Kingdome.</p>
+                        <p>
+                           <hi>Sir, we can die, but not endure to see our Mother</hi> England <hi>die before us.</hi>
+                        </p>
+                        <pb n="6" facs="tcp:162519:5"/>
+                        <p>
+                           <hi>Decemb.</hi> 18. Letters further from Windsor, that his Ma<g ref="char:EOLhyphen"/>jesty is expected there this night, and that several Roomes in the Castle are appointed for his accommodation. Divers of the Gentry are gone to meet Him. But whether his resi<g ref="char:EOLhyphen"/>dence will be there, or at <hi>London,</hi> is yet uncertain. It is said, that his Majesty will be suddainly brought to a faire and le<g ref="char:EOLhyphen"/>gall tryal, and that the Generall and Lieut. Gen. are resolved to act nothing against his Majesties person, but what shalbe agreeable to the known Laws of the Realm, and the com<g ref="char:EOLhyphen"/>mon Rights of the people. And upon <hi>Tuesday</hi> Decemb. 19. the Councel of the Army are resolved to insist on the busi<g ref="char:EOLhyphen"/>nesse, and speedily to prosecute the same; and it is given out, that the sentence will passe against Major Gen. <hi>Laughorn,</hi> Col. <hi>Poyer,</hi> and Col. <hi>Powell,</hi> to be shot to death at <hi>VVindsor,</hi> who being told by an Officer of the Army, that they must prepare themselves to dye, they replied, <hi>Gods will be done, we thank God, we have made our peace with him, and shall without fear, undergo what he shall be pleased to suffer men to doe vnto us.</hi>
+                        </p>
+                        <p>Other Letters touching his Majesty demonstrates, That He is drawing up a Message to be sent to the Lord General <hi>Fairfax,</hi> and Lieut. Gen. <hi>Crumwell,</hi> purporting his earnest de<g ref="char:EOLhyphen"/>sires, that no injury or violence be done or executed upon the person of Major Gen. <hi>Brown,</hi> but that he may have a le<g ref="char:EOLhyphen"/>gall tryal; to the end, he may acquit himself of the Charge and Impeachment now exhibited against him.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
